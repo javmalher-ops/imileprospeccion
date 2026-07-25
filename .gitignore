@@ -42,3 +42,4 @@ Thumbs.db
 # resultados/*.csv y resultados/*.xlsx se actualizan dinámicamente
 resultados/*.csv.bak
 resultados/*.xlsx.bak
+.obsidian-vault/
