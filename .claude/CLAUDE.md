@@ -120,8 +120,21 @@ Revisa `resultados/prospeccion-historial.csv` para:
 3. Comparte CSV/XLSX con el equipo de ventas
 4. El sistema actualiza automáticamente `prospeccion-historial.csv`
 
+## 🧠 Integración Obsidian
+
+Este proyecto ahora está **completamente integrado con tu vault de Obsidian**:
+
+- 📖 Accede a todas tus notas en tiempo real
+- 💾 Guarda conversaciones automáticamente
+- 🔍 Busca información en todo tu vault
+- ↔️ Sincronización bidireccional con Google Drive
+
+**Configuración requerida**: ~5 minutos  
+Consulta: [OBSIDIAN_INTEGRATION.md](.claude/OBSIDIAN_INTEGRATION.md)
+
 ---
 
 **Última actualización**: Sesión Remote Claude Code  
 **Entorno**: Remoto (Cloud)  
-**Hook**: Sincrónico (garantiza readiness antes de iniciar)
+**Hook**: Sincrónico (garantiza readiness antes de iniciar)  
+**Integraciones**: Obsidian ✓, Google Drive ✓, Apollo ✓
